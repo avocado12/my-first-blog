@@ -25,7 +25,7 @@ SECRET_KEY = 'tqj%2os_gfq(hu*js9i_m^n^n99g4iiqjf)4@3xuv+l!vtyhc='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<avocado>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'avocado.pythonanywhere.com']
 
 
 # Application definition
